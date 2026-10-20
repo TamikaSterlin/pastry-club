@@ -1,0 +1,37 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #fff8f0;
+  color: #3b2a1a;
+  margin: 0;
+}
+main {
+  max-width: 640px;
+  margin: 48px auto;
+  padding: 0 16px;
+  text-align: center;
+}
+#plans {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.plan {
+  background: #fff;
+  border: 2px solid #f0d9c0;
+  border-radius: 12px;
+  padding: 20px;
+  width: 220px;
+}
+.price {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+button {
+  background: #c8702a;
+  color: #fff;
+  border: 0;
+  border-radius: 8px;
+  padding: 10px 16px;
+  cursor: pointer;
+}
