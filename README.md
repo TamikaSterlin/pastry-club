@@ -2,8 +2,6 @@
 
 A small subscription paywall for a fictional bakery, built to learn [RevenueCat](https://www.revenuecat.com/) hands-on using the **RevenueCat Web SDK** (`@revenuecat/purchases-js`) and TypeScript.
 
-Sweet Rise Bakery is the same fictional business from my [ReadMe developer hub](#) project, so this demo picks up where that API story left off: now the bakery sells a subscription.
-
 ## What it does
 
 - Loads the **current offering** from RevenueCat and renders each package (Monthly, Yearly, Lifetime) with its price
